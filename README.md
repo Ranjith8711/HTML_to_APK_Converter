@@ -120,7 +120,7 @@ Edit the top of `converter.py` to change:
 
 ```python
 APP_NAME     = "MyWebApp"          # App label shown on device
-PACKAGE_NAME = "com.santhosh.generatedapp"   # Unique app ID
+PACKAGE_NAME = "com.ranjith.generatedapp"   # Unique app ID
 VERSION_CODE = 1
 VERSION_NAME = "1.0"
 MIN_SDK      = 21                  # Android 5.0+
